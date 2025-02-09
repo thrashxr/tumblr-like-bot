@@ -51,6 +51,10 @@ python src/gui.py
 
 ## Security
 
+Please read our [Security Policy](SECURITY.md) for details on our security policies and how to report security vulnerabilities.
+
+Key points:
+
 -  Keep your API keys secure
 -  Never share your `.env` file
 -  Keep daily and hourly limits at reasonable levels
