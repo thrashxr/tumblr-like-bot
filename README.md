@@ -57,6 +57,10 @@ python src/gui.py
 
 ## Contributing
 
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+
+For a quick start:
+
 1. Fork this repository
 2. Create a new branch (`git checkout -b new-feature`)
 3. Commit your changes (`git commit -am 'Added new feature'`)
