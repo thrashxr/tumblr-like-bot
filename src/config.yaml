@@ -1,0 +1,23 @@
+like_settings:
+   blog_blacklist: []
+   content_types:
+      - text
+      - photo
+   max_likes_per_day: 1000
+   max_likes_per_hour: 200
+   min_notes: 0
+   tags:
+      - artists on tumblr
+      - photography
+      - art
+logging:
+   backup_count: 3
+   file: logs/tumblr_bot.log
+   level: DEBUG
+   max_size: 5242880
+timing:
+   delay_between_likes: 30
+   enable_work_hours: false
+   end_time: '23:00'
+   rest_time: 60
+   start_time: 09:00
