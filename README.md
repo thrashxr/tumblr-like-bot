@@ -63,6 +63,12 @@ python src/gui.py
 4. Push to the branch (`git push origin new-feature`)
 5. Create a Pull Request
 
+## Davranış Kuralları / Code of Conduct
+
+Bu proje [Katkıda Bulunanlar Sözleşmesi](CODE_OF_CONDUCT.md) davranış kurallarını benimsemiştir. Projeye katılarak bu kurallara uymayı kabul etmiş olursunuz.
+
+This project has adopted the [Contributor Covenant](CODE_OF_CONDUCT.md) Code of Conduct. By participating, you are expected to uphold this code.
+
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
